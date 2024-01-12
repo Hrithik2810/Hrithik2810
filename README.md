@@ -12,7 +12,9 @@ Currently, I'm focusing on Python,Data Science and I'm excited to apply what I l
 
 ## 🛠️ Projects
 
-As a student, I'm always looking for opportunities to work on new and exciting projects.
+Weather Forcast Application
+TODO list app
+Password Generator app
 
 ## 🌐 Find Me Online
 

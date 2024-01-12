@@ -12,9 +12,9 @@ Currently, I'm focusing on Python,Data Science and I'm excited to apply what I l
 
 ## 🛠️ Projects
 
-Weather Forcast Application
-TODO list app
-Password Generator app
+1.Weather Forcast Application 
+2.TODO list app
+3.Password Generator app
 
 ## 🌐 Find Me Online
 
